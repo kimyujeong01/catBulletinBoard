@@ -1,3 +1,0 @@
-<이미지 관련>
-
-1. 이미지는 C:\fullstack501\jsp\project_kyj\src\main\webapp\resources\upload 안에 넣어야 합니다.
